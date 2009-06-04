@@ -42,11 +42,13 @@
 		<h2 id="blog-description"><?php bloginfo('description') ?></h2>	
 	</div><!--  #header -->
 	
-<!--
+<?php
+/*
     	<?php if ( !is_single($post) ) { ?>
     	<div id="access">
     		<div class="skip-link"><a href="#content" title="<?php _e( 'Skip to content', 'sandbox' ) ?>"><?php _e( 'Skip to content', 'sandbox' ) ?></a></div>
     		<?php sandbox_globalnav() ?>
     	</div><!-- #access -->	
     	<?php } ?>	
--->
+*/
+?>
