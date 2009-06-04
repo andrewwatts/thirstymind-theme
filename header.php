@@ -30,7 +30,7 @@
 	
 	<?php wp_head() /* For plugins */?>
 	
-	<script type="text/javascript">var disqus_iframe_css = "http://www.thirstymind.org/disqus-form.css";</script>
+	<script type="text/javascript">var disqus_iframe_css = "http://www.thirstymind.org/wordpress/wp-content/themes/thirstymind-theme/css/disqus-form.css";</script>
 </head>
 
 <body class="<?php sandbox_body_class() ?>">
